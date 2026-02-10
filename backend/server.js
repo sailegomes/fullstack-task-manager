@@ -101,7 +101,7 @@ app.delete("/tasks/:id", (req, res) => {
   });
 });
 
-// Endpoint simples só pra testar se a API está de pé
+// Endpoint simples só pra testar se a API está funcionando
 app.get("/health", (req, res) => res.json({ ok: true }));
 
 const PORT = 3333;
