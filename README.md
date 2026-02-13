@@ -1,3 +1,5 @@
+<img width="1336" height="600" alt="image" src="https://github.com/user-attachments/assets/3aaae5d4-d37f-4c3d-b0a9-bcc31ee1c800" />
+
 # Sistema Web de Gestão de Tarefas
 
 Este projeto consiste em uma aplicação web simples desenvolvida como exercício prático de integração entre front-end e back-end, com o objetivo de consolidar conceitos fundamentais de desenvolvimento full stack.
